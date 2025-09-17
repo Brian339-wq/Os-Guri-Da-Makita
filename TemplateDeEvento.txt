@@ -11,6 +11,9 @@
 
 - Ping: ||@SeuPing||
 
+-# [Template](<https://github.com/Brian339-wq/Os-Guri-Da-Makita/blob/main/TemplateDeEvento.txt>)
+-# [GitHub](<https://github.com/Brian339-wq/Os-Guri-Da-Makita/tree/main>)
+
 NOTAS QUE DEVEM SER APAGADAS AO ENVIAR:
 
 Para Infinito Utilize: INF
